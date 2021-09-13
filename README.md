@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 📝 I regularly write articles on [https://timesofindia.indiatimes.com/readersblog/author/harshchandwani984/](https://timesofindia.indiatimes.com/readersblog/author/harshchandwani984/)
+- 📝 I regularly write articles on [Times of India (Blog Edition)](https://timesofindia.indiatimes.com/readersblog/author/harshchandwani984/)
 
 - 💬 Ask me about **HTML, CSS, Javascript,Bootstrap**
 
 - 📫 How to reach me **harshchandwani50028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dQ2nN19WueKT2B6PauzNnRFT0yLf3rFC/view?usp=sharing](https://drive.google.com/file/d/1dQ2nN19WueKT2B6PauzNnRFT0yLf3rFC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dQ2nN19WueKT2B6PauzNnRFT0yLf3rFC/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Sarcastic as Chandler**
 
