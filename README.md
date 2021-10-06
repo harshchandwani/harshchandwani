@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshchandwani50028@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dQ2nN19WueKT2B6PauzNnRFT0yLf3rFC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kRv5_kskjds8Bu6whk-cb36w-8KIZ0CR/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Sarcastic as Chandler**
 
