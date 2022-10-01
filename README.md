@@ -3,24 +3,26 @@
 <h1 align="center">Hello, This is Harsh Chandwani</h1>
 <h3 align="center">Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harsh?logo=twitter&style=for-the-badge" alt="heyy_harsh" /></a> </p>
-
 <h3 align = "center">📛My Badges</h3>
 <img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=heyy_harshh">
 
-- 🔭 I’m currently working on [Tindog](https://harshchandwani.github.io/tindog/)
 
-- 🌱 I’m currently learning **Front-end, DSA**
+<p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harsh?logo=twitter&style=for-the-badge" alt="heyy_harsh" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+
+- 🔭 I’m currently working on DSA
+
+- 🌱 I’m currently learning **Front-end(ReactJS), DSA**
+
+- 👯 I’m looking to collaborate on **Front-end Projects using ReactJS and Documentations**
 
 - 📝 I regularly write articles on [Times of India (Blog Edition)](https://timesofindia.indiatimes.com/readersblog/author/harshchandwani984/)
 
-- 💬 Ask me about **HTML, CSS, Javascript,Bootstrap**
+- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, ReactJS, NodeJS, ExpressJS**
 
 - 📫 How to reach me **harshchandwani50028@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kRv5_kskjds8Bu6whk-cb36w-8KIZ0CR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C_4VAY75ysVSdl9_bItyONQtdXj-b_1i/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Sarcastic as Chandler**
 
