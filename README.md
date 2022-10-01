@@ -1,9 +1,12 @@
 ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/67815775/133055588-6b1693a8-31d1-4fbf-93aa-43103c0a91ff.png)
 
-<h1 align="center">Hi 👋, I'm Harsh Chandwani</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center">Hello, This is Harsh Chandwani</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harsh?logo=twitter&style=for-the-badge" alt="heyy_harsh" /></a> </p>
+
+<h3 align = "center">📛My Badges</h3>
+<img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=heyy_harshh">
 
 - 🔭 I’m currently working on [Tindog](https://harshchandwani.github.io/tindog/)
 
