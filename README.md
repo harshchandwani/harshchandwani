@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **ReactJs | NodeJs | MongoDB**
 
-- 👯 I’m looking to collaborate on [GERIVHT: Restaurant Landing Page](https://github.com/harshchandwani/restaurant-landing-page)
+- 👯 I’m looking to collaborate on [Competitions and Program List](https://github.com/harshchandwani/Competitions-and-Programs-List)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshchandwani/](https://github.com/harshchandwani/)
 
