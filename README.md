@@ -48,3 +48,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshchandwani&" alt="harshchandwani" /></p>
+
+![Snake animation](https://github.com/harshchandwani/harshchandwani/blob/output/github-contribution-grid-snake.svg)
