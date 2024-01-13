@@ -1,21 +1,14 @@
 ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/67815775/133055588-6b1693a8-31d1-4fbf-93aa-43103c0a91ff.png)
-<h1 align="center">Hi 👋, I'm Harsh Chandwani</h1>
-<h3 align="center">React Developer | GDSC Techincal Core Member | Mentee- Amazon ML Summer School | Chandigarh Group of Colleges, Landran</h3>
-
-
-<h3 align = "center">📛My Badges</h3>
-<img align="center" alt="Badges" src="https://holopin.io/api/user/board?user=heyy_harshh">
+<h3 align="center">Student Developer from Chandigarh, India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshchandwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshchandwani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harshh?logo=twitter&style=for-the-badge" alt="heyy_harshh" /></a> </p>
 
-- 🔭 I’m currently working on [GERIVHT: Restaurant Landing Page](https://sprightly-shortbread-543f5f.netlify.app/)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **ReactJs | NodeJs | MongoDB**
-
-- 👯 I’m looking to collaborate on [Competitions and Program List](https://github.com/harshchandwani/Competitions-and-Programs-List)
+- 🌱 I’m currently learning **ExpressJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshchandwani/](https://github.com/harshchandwani/)
 
@@ -23,11 +16,7 @@
 
 - 💬 Ask me about **ReactJs**
 
-- 📫 How to reach me **harshchandwani50028@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C_4VAY75ysVSdl9_bItyONQtdXj-b_1i/view?usp=sharing](https://drive.google.com/file/d/1C_4VAY75ysVSdl9_bItyONQtdXj-b_1i/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny as Chandler**
+- ⚡ Fun fact **I think I am as funny as Chandler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
