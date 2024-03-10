@@ -6,16 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harshh?logo=twitter&style=for-the-badge" alt="heyy_harshh" /></a> </p>
 
-- 🔭 I’m currently working on [NetlfixGPT](https://nitflix-ad124.web.app/browse)
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **NextJS 14**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshchandwani/](https://github.com/harshchandwani/)
 
 - 🧑‍💻 Personal Portfolio: In Progress
 - 📝 I regularly write articles on [https://harshchandwani.hashnode.dev/](https://harshchandwani.hashnode.dev/)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **Javascript, React, Next, Node, Express**
 
 - ⚡ Fun fact **I think I am as funny as Chandler**
 
