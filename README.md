@@ -1,5 +1,5 @@
 ![Green and Cream Brushstroke Assistant Professor LinkedIn Banner](https://user-images.githubusercontent.com/67815775/133055588-6b1693a8-31d1-4fbf-93aa-43103c0a91ff.png)
-<h3 align="center">Student Developer from Chandigarh, India</h3>
+<h3 align="center">Student Developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshchandwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshchandwani" /> </p>
