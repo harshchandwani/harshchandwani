@@ -7,14 +7,16 @@
 <p align="left"> <a href="https://twitter.com/heyy_harshh" target="blank"><img src="https://img.shields.io/twitter/follow/heyy_harshh?logo=twitter&style=for-the-badge" alt="heyy_harshh" /></a> </p>
 
 
-- 🌱 I’m currently learning **NextJS 14**
+- 🌱 I’m currently learning **System Design and Go lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshchandwani/](https://github.com/harshchandwani/)
 
 - 🧑‍💻 Personal Portfolio: [https://harshchandwani.github.io/portfolio/](https://harshchandwani.github.io/portfolio//)
-- 📝 I regularly write articles on [https://harshchandwani.hashnode.dev/](https://harshchandwani.hashnode.dev/)
+- 📝 I regularly write articles on [https://medium.com/@harshchandwani50028](https://medium.com/@harshchandwani50028)
 
-- 💬 Ask me about **Javascript, React, Next, Node, Express**
+- 💬 Connect:
+  - LinkedIn: [https://www.linkedin.com/in/harsh-chandwani/](https://www.linkedin.com/in/harsh-chandwani/)
+  - X: [https://x.com/heyy_harshh](https://x.com/heyy_harshh) 
 
 - ⚡ Fun fact **I think I am as funny as Chandler**
 
